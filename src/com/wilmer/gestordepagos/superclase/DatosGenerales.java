@@ -1,6 +1,6 @@
 package com.wilmer.gestordepagos.superclase;
 
-public class DatosGenerales {
+public class DatosGenerales  {
     private String nombre;
     public String getNombre(){
         return nombre;
@@ -8,4 +8,6 @@ public class DatosGenerales {
     public void setNombre(String nombre){
         this.nombre=nombre;
     }
+
+
 }
